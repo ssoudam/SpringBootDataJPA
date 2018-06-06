@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eurekaclient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AARIT
+Implementation-Vendor-Id: com.marketforbes
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eurekaclient
+Created-By: Maven Integration for Eclipse
+
